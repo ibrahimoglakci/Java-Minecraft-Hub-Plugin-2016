@@ -1,0 +1,82 @@
+name: Xeme_V3NSYJ
+author: WalkingUcak_
+version: 1.6
+main: com.xeme.Main
+commands:
+  mask:
+    description: Mask ol
+  unmask:
+    description: Mask ol
+  gamemaster:
+    aliases: [goto]
+    description: Gamemaster
+  gamemasterexit:
+    aliases: [ungoto]
+    description: Exit to Gamemaster
+  list:
+    aliases: [l]
+  ping:
+    description: Ping of Player
+  gmc:
+    description: Gamemode Creative
+  gms:
+    description: Gamemode Survival
+  gamemode:
+    description: Gamemode
+    aliases: [gm]
+  broadcast:
+    description: Broadcast
+    aliases: [br, bc]
+  alert:
+    description: Alert
+    aliases: [al]
+  kill:
+    description: Suicide
+    aliases: [murder]  
+  chatcolor:
+    description: Chatcolor
+    aliases: [cc]
+  fly:
+    description: Flight Mode
+    aliases: [flight]
+  chat:
+    description: Chat Panel
+    aliases: [c]
+  xeme:
+    description: anan
+  fix:
+    description: Fix Command
+    aliases: [gf, ghost]
+  cps:
+    description: Anti Macro
+  stats:
+    description: Stats Command
+  heal:
+    description: Heal Command
+  xemesystem:
+    description: System reload Command
+  apply:
+    description: Apply Command
+  disguise:
+    aliases: [d]
+    description: Disguise Command
+  undisguise:
+    aliases: [ud]
+    description: Undisguise Command
+  rank:
+    description: Rank Command
+  sethub:
+    description: Setted HUB
+  hub:
+    description: Teleport Hub
+  help:
+    description: See Help
+  report:
+    description: Reported to Player
+  punishment:
+    aliases: [punish, ceza]
+  lookup:
+    aliases: [history, hist]
+  ban:
+    description: sa
+ 
